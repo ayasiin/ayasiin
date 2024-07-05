@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ayasiin
-- 👀 I’m interested in Front End Dev..
-- 🌱 I’m currently learning Javascript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .on my Git Hub..
-
-<!---
-ayasiin/ayasiin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A front-end developer who has mastered front-end tools and languages including JavaScript,JavaScript framework React.js CSS Bootstrap, CSS (Tailwind), flex-Box HTML5, I have a foundational understanding of Jest and am proficient with GitHub and debugging, often utilizing AI tools for assistance.often leveraging AI tools to assist in problem-solving. Coding is my passion; I enjoy solving problems with great attention to detail. I am also an excellent communicator. In addition to my technical skills, I speak five languages: Somali, Swahili, English, Barawa, and basic Arabic.
